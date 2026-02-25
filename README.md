@@ -135,7 +135,7 @@ com.example.mybishkek
 
 ### 1. Clone the project
 
-git clone https://github.com/yourusername/my-bishkek-app.git
+git clone https://github.com/Sherdos/MyCity.git
 
 ### 2. Open in Android Studio
 
