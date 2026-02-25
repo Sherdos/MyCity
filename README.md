@@ -147,32 +147,6 @@ Use Android Studio Hedgehog or newer.
 - Click ▶ Run
 
 ---
-
-## 🖼 Adding New Places
-
-1. Add image to:
-
-res/drawable/
-
-2. Update Place model:
-
-@DrawableRes val imageRes: Int
-
-3. Add new entry in CityRepository
-
----
-
-## 📚 Learning Goals
-
-This project was built to practice:
-
-- Jetpack Compose
-- Android architecture
-- Navigation patterns
-- Adaptive UI
-- Clean code structure
-
----
 ## 👨‍💻 Author
 
 Шердос Жапаров  
